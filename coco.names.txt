@@ -1,0 +1,80 @@
+person - odam
+bicycle velosiped
+car - avtomobil
+motorbike - motorsikle
+aeroplane - samalyot
+bus - avtobus
+train - poyezd
+truck - kamaz
+boat - qayiq
+traffic light - svetafor
+fire hydrant
+stop sign
+parking meter
+bench
+bird - qush
+cat - mushuk
+dog - it
+horse - ot
+sheep - qo'y
+cow - mol
+elephant - fil
+bear - ayiq
+zebra
+giraffe - jirafa
+backpack - somka
+umbrella - soyabon
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball - top
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup - bokal
+fork
+knife - pichoq
+spoon - qoshiq
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+sofa
+pottedplant
+bed
+diningtable
+toilet
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
